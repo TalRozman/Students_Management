@@ -1,5 +1,5 @@
 # Students Management System
-##Technologies used - 
+## Technologies used - 
 ### Back - Python
   - Used JSON file to save data.
   - Flask
@@ -26,5 +26,5 @@
     - npm i
     - npm start
     
-# I hope you will enjoy this project
-## Thanks :)
+### I hope you will enjoy this project
+#### Thanks :)
