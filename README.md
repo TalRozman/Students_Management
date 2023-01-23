@@ -1,9 +1,9 @@
 # Students Management System
-Technologies used - 
-## Back - Python
+##Technologies used - 
+### Back - Python
   - Used JSON file to save data.
   - Flask
-## Front - React
+### Front - React
   - Used Redux TypeScript
   - Used Axios to request data from server
 
