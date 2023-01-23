@@ -27,4 +27,4 @@ Technologies used -
     - npm start
     
 # I hope you will enjoy this project
-# Thanks :)
+## Thanks :)
