@@ -16,7 +16,7 @@
     - English
     - Computer Science
 
-## HOW TO ISNTALL - 
+## HOW TO INSTALL - 
   ### Back-
     - Create virtual environment
     - pip install -r requirements.txt
